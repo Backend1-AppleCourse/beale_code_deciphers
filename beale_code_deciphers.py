@@ -1,4 +1,4 @@
-
+### where is the iterator?
 
 whitelist = set('abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ\n')
 f = open('dycyphered_string.txt', 'r')
